@@ -10,14 +10,17 @@
 #paragraf {
     background-color: white;
     width: 60%;
-    margin-left: 260px;
+    
     height: 200px;
+    display: block;
+    margin: 0 auto;
 }
 
 body {
     margin: 0px;
     padding: 0px;
     background-color: #e2e0e0;
+    font-family: Arial;
 }
 
 a {
@@ -38,7 +41,8 @@ p {
 #digi {
     background-color: white;
     width: 60%;
-    margin-left: 260px;
+    display: block;
+    margin: 0 auto;
     margin-top: 20px;
     height: 1800px;
     
@@ -47,7 +51,8 @@ p {
 #tekpro {
     background-color: white;
     width: 60%;
-    margin-left: 260px;
+    display: block;
+    margin: 0 auto;
     margin-top: 20px;
     height: 500px;
 }
