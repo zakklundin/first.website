@@ -1,14 +1,14 @@
 #gamertime {
-    height: 150px;
+    height: 138px;
     width: 100%;
-    background-image: url(totallymyimage.jpg);
+    background-color: gray;
     background-size: cover;
     text-align: center;
     
 }
 
 button {
-    height: 38px;
+    height: 39px;
     display:inline-block;
     box-sizing: border-box;
     color: #ffffff;
@@ -25,7 +25,7 @@ button {
     
 }
 #main{
-    height: 38px;
+    height: 39px;
     display:inline-block;
     box-sizing: border-box;
     color: black;
